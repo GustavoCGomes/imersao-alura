@@ -1,7 +1,39 @@
 @charset "UTF-8";
 
-h1 {
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 400px;
+    background-image: url('imagens/pexels-dominika-roseclay-1089842.jpg');
+    background-color: #CEE1C6;
+    background-size: 99vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
     text-align: center;
-    font-size: 150px;
-    color: darkred;
-}
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:#0a0a0a;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#000000;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    
+  }
