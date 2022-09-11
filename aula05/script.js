@@ -14,3 +14,8 @@ function listarFilmesNaTela(filmeFavorito) {
         var elementoListaFilmes = document.getElementById("listaFilmes");
             elementoListaFilmes.innerHTML = elementoListaFilmes.innerHTML + elementoFilmeFavorito;
 }
+
+// Desafios 
+// Remover algum filme da Tela 
+// Além de colocar imagem colocar o nome do filme 
+// Tambem guarda num lista todos que foram adicionado

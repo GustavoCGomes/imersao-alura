@@ -19,3 +19,9 @@
     elementoValorConvertido.innerHTML = valorConvertido;
     /* pegar o elementoValorConvertido. colocar interno no HTML (innerHTML) = Resultado Final*/
 }
+
+
+// Desafio 
+// Adcionar um botao para converter para euro, real ou dolar 
+// Conversor de distância de (KM para anos luz) para viajar na velocidade da luz para uma outra estrela 
+// Aparecer em uma outra linha em cripto 

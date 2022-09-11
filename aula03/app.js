@@ -18,3 +18,7 @@ function Chutar() {
         elementoResultado.innerHTML = "Você errou"
     }
 }
+
+//Desafio 
+// Na mensagem de erro mostra se e > ou < que esta achando 
+// Pesquisa sobre == e ===

@@ -3,3 +3,8 @@ var listaFilmes = ["https://upload.wikimedia.org/wikipedia/pt/7/76/The_Big_Short
 for (var i = 0; i < listaFilmes.length; i++) {
     document.write("<img src=" + listaFilmes[i] + ">")
 }
+
+//Desafio 
+// usar condição pra não adicionar filme repetidos
+// pensar sobre catalogo 
+// Pesquisar sobre foreach, .forEach
