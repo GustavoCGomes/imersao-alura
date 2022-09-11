@@ -18,4 +18,11 @@ console.log('Sua media final é ' + notaFixada) //console.log
 //Variáveis, strings, console.log, toFixed, operações matemática, concatenação
 //estilização do fundo
 
+//Desafios 
+// Quebra os valores 1º somar e depois dividir.
+// Notas com 2 casas decimais , verificar se o aluno passou ou não de ano de acordo com a media. 
+// Estilisação do fundo
+// Escrever na pagina o que a gente escreva no console.log
+// Conversor de temperatura de fire por c° ou de km por milar
+// No console.log(notaFixada) colocar a conta inteira e o toFixed.
 
